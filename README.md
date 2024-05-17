@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -142,5 +142,4 @@
         <p>&copy; 2024 Sarah Moore. All rights reserved.</p>
     </footer>
 </body>
-</html>
-```
+
